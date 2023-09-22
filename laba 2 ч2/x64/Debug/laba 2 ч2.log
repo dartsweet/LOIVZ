@@ -1,0 +1,9 @@
+﻿  BAZsort.cpp
+  Main.cpp
+D:\ЛОГИКА ИЛЮШКА\lOVIZ-LABA2\laba 2 ч2\Main.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ЛОГИКА ИЛЮШКА\lOVIZ-LABA2\laba 2 ч2\Main.cpp(117,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ЛОГИКА ИЛЮШКА\lOVIZ-LABA2\laba 2 ч2\Main.cpp(219,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SHELLsort.cpp
+  QSsort.cpp
+  Создание кода...
+  laba 2 ч2.vcxproj -> D:\ЛОГИКА ИЛЮШКА\lOVIZ-LABA2\laba 2 ч2\x64\Debug\laba 2 ч2.exe
