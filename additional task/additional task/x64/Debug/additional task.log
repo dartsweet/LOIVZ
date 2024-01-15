@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\proga\additional task\additional task\main.cpp(10,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\proga\additional task\additional task\main.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  additional task.vcxproj -> D:\proga\additional task\x64\Debug\additional task.exe
